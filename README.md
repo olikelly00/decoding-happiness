@@ -14,7 +14,7 @@ The dataset contains the following columns:
 - Freedom to Make Life Choices (float, continuous)
 - Generosity (float, continuous)
 - Perceptions of Corruption (float, continuous)
-- *[subsequently added]* Continuent (string, discrete)
+- *[subsequently added]* Continent (string, discrete)
 
 
 ---
